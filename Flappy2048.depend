@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1467873313 source:d:\data\desktop\flappy2048\main.cpp
+	<stdio.h>
+	<graphics.h>
+
+1467873754 source:\\mac\home\desktop\flappy2048\icon.rc
+
+1474691476 source:\\mac\home\desktop\flappy2048\main.cpp
+	<stdio.h>
+	<graphics.h>
+
